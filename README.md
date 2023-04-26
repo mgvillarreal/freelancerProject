@@ -4,7 +4,7 @@
    <img src="https://img.shields.io/badge/STATUS-DONE-green">
 </p>
 
-This is the repository for a personal website. The main goal of the site is to showcase my basic habilities using only HTML and CSS.
+This is the repository for a personal website. The main goal of the site is to showcase my basic abilities using only HTML and CSS and to improve practices to make a responsive site.
 
 ### Technologies Used
 This website was built using HTML and CSS.
@@ -19,4 +19,4 @@ Contributions are not currently being accepted for this project.
 ### Authors
 I did this project for educational purposes as a frontend practice.
 
-**María Gabriela Villarreal** [GitHub Profile](https://github.com/mgvillarreal).<br>
+**María Gabriela Villarreal** [GitHub Profile](https://github.com/mgvillarreal).
